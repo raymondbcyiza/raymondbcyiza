@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/raymond-cyiza-045b95178/ </h3>
 <p align="left">
 </p>
 
